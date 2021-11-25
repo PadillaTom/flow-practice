@@ -16,7 +16,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws  Exception {
-        // ====
+        // ===
         // Decimos de usar nuestro CUSTOM USER SERVICE; evitando el default de Spring Security.
         // ===
       // auth.userDetailsService(userDetailsCustomService);
