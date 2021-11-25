@@ -39,5 +39,5 @@ public class OrganizationEntity {
 
     private boolean deleted = Boolean.FALSE;
 
-    // TODO: Timestamps
+    // TODO: Timestamp
 }
