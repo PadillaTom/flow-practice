@@ -14,7 +14,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 ## Directory-based project format:
-.idea/
+.idea/*
 
 # IntelliJ
 /out/
