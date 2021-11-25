@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5257232b-d7a4-49cd-86d6-6c2e8ec720a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/flowpractice/entity/OrganizationEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/flowpractice/entity/OrganizationEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
